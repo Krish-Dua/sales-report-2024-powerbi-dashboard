@@ -51,7 +51,7 @@ The goal of this project is to demonstrate data visualization skills, business i
 
 ## 📁 Files Included
 
-- `Sales_Report_2024.pbix` – Power BI Dashboard File
+- `Sales_Report_dash.pbix` – Power BI Dashboard File
 <!--- `dashboard-preview.png` – Dashboard Screenshot-->
 
 ---
